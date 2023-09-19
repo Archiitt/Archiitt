@@ -33,7 +33,7 @@ across devices 📱 | Eager learner of new web technologies and trends 🧪 | Re
 <div> <a href="https://github.com/Archiitt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">My Github Stats</h3>
 
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archiitt&langs_count=8&theme=rising-sun" alt=Archiitt />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archiitt&layout=compact&theme=dark" alt=Archiitt />
 
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Archiitt&theme=rising-sun" alt="Archiitt" /></p>
