@@ -35,6 +35,3 @@ across devices 📱 | Eager learner of new web technologies and trends 🧪 | Re
 </div><h3 align="left">My Github Stats</h3>
 
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Archiitt&layout=compact&theme=dark" alt=Archiitt />
-
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Archiitt&theme=rising-sun" alt="Archiitt" /></p>
